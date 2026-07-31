@@ -1,0 +1,16 @@
+import requests
+import sys
+import base64
+import scapy
+import impacket
+import socket
+import pwntools
+import pefile
+import capstone
+import cryptography
+import pycryptodome
+import yara
+import BeautifulSoup4
+import playwright
+import shodan
+import volatility3
